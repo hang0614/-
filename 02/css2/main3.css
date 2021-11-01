@@ -1,0 +1,28 @@
+*{margin: 0; padding: 0;}
+
+.wrap{
+  min-width: 320px;
+  max-width: 1200px;
+  margin: 0 auto;
+  /* background-color: black; */
+}
+header,section,footer{
+  height: 100vh; width: 100%;
+
+
+}
+
+header{
+  background-color: pink;
+  background-image: url("https://www.uuoobe.kr/data/file/p_photo/980977020_xb0fLmDz_ED8FACEBA7B7EBB380ED9998_03245_londonfromtheshard_1440x900.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+section{
+  background-color: red;
+}
+
+footer{
+  background-color: orange;
+}
